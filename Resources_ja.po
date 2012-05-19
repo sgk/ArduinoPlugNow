@@ -16,39 +16,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: PlugNow.java:27
+#: PlugNow.java:31
 msgid "Plug Now..."
-msgstr "いま接続する..."
+msgstr "ボードをいま接続する..."
 
-#: PlugNow.java:35 PlugNow.java:61 PlugNow.java:85
+#: PlugNow.java:39 PlugNow.java:68 PlugNow.java:92
 msgid "(not yet detected)"
 msgstr "（まだ検出されていません）"
 
-#: PlugNow.java:37
+#: PlugNow.java:41
 msgid "Plug Arduino to PC now and click OK to select the serial port."
 msgstr "ArduinoボードをPCに接続し、シリアルポートが検出されたらOKをクリックしてください。"
 
-#: PlugNow.java:38
+#: PlugNow.java:42
 msgid "Detected port:"
 msgstr "検出されたシリアルポート："
 
-#: PlugNow.java:47 PlugNow.java:83
+#: PlugNow.java:51 PlugNow.java:90
 msgid "OK"
 msgstr "OK"
 
-#: PlugNow.java:47 PlugNow.java:48
+#: PlugNow.java:51 PlugNow.java:52
 msgid "Cancel"
 msgstr "キャンセル"
 
-#: PlugNow.java:49
+#: PlugNow.java:53
 msgid "Plug Now"
 msgstr "シリアルポートを接続する"
 
-#: PlugNow.java:87
+#: PlugNow.java:94
 #, java-format
 msgid "Serial port \"{0}\" selected."
 msgstr "シリアルポート「{0}」が選択されました。"
 
-#: PlugNow.java:110
+#: PlugNow.java:117
 msgid "error retrieving port list"
 msgstr "ポート名の一覧を取得できませんでした。"
